@@ -1,0 +1,18 @@
+location.txt
+>> sdf sdgsd gsdf gsdfgfsd
+aa
+aa
+aaaaa aaa aaa 
+
+tech.txt
+>> weg wge 
+weg dsg sg 
+rg weg sdg 
+bbb bbb bbb 
+
+cost.txt
+>> sdf sdgsd gsdf gsdfgfsd
+aa
+aa
+aaccc ccc ccc ccc 
+wqef weg dsg d 
